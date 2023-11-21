@@ -1,5 +1,5 @@
 """
-Objective : Insertion at the front of the linked list.
+Objective : Insertion at the front of the singly linked list.
 
 Approch : 
 1. Create a new node with the given data and next adderess as Null.
